@@ -3,143 +3,143 @@
        <days>
         <day number="1">
             <hours>
-             <hour number="1">
-                <subject>Seguridad y alta disponibilidad</subject>
-                <teacher>Fidel</teacher>
-             </hour>
-             <hour number="2">
-                <subject>Seguridad y alta disponibilidad</subject>
-                <teacher>Fidel</teacher>
-             </hour>
-             <hour number="3">
-                <subject>Servicios de red e internet</subject>
-                <teacher>Javier</teacher>
-             </hour>
-             <hour number="4">
-                <subject>Servicios de red e internet</subject>
-                <teacher>Javier</teacher>
-             </hour>
-             <hour number="5">
-                <subject>Administracion de sistemas operativos</subject>
-                <teacher>Marisol</teacher>
-             </hour>
-             <hour number="6">
-                <subject>Administracion de sistemas operativos</subject>
-                <teacher>Marisol</teacher>
-             </hour>
+               <hour number="1">
+                  <subject>Seguridad y alta disponibilidad</subject>
+                  <teacher>Fidel</teacher>
+               </hour>
+               <hour number="2">
+                  <subject>Seguridad y alta disponibilidad</subject>
+                  <teacher>Fidel</teacher>
+               </hour>
+               <hour number="3">
+                  <subject>Servicios de red e internet</subject>
+                  <teacher>Javier</teacher>
+               </hour>
+               <hour number="4">
+                  <subject>Servicios de red e internet</subject>
+                  <teacher>Javier</teacher>
+               </hour>
+               <hour number="5">
+                  <subject>Administracion de sistemas operativos</subject>
+                  <teacher>Marisol</teacher>
+               </hour>
+               <hour number="6">
+                  <subject>Administracion de sistemas operativos</subject>
+                  <teacher>Marisol</teacher>
+               </hour>
             </horas>
         </hours>
         <day number="2">
             <hours>
-             <hour number="1">
-                <subject>Adiministracion de sistemas gestores de bases de datos</subject>
-                <teacher>Javier</teacher>
-             </hour>
-             <hour number="2">
-                <subject>Adiministracion de sistemas gestores de bases de datos</subject>
-                <teacher>Javier</teacher>
-             </hour>
-             <hour number="3">
-                <subject>Administracion de sistemas operativos</subject>
-                <teacher>Marisol</teacher>
-             </hour>
-             <hour number="4">
-                <subject>Servicios de red e internet</subject>
-                <teacher>Javier</teacher>
-             </hour>
-             <hour number="5">
-                <subject>Implantacion de aplicaciones web</subject>
-                <teacher>Florindo</teacher>
-             </hour>
-             <hour number="6">
-                <subject>Implantacion de aplicaciones web</subject>
-                <teacher>Florindo</teacher>
-             </hour>
-            </horas>
+               <hour number="1">
+                  <subject>Adiministracion de sistemas gestores de bases de datos</subject>
+                  <teacher>Javier</teacher>
+               </hour>
+               <hour number="2">
+                  <subject>Adiministracion de sistemas gestores de bases de datos</subject>
+                  <teacher>Javier</teacher>
+               </hour>
+               <hour number="3">
+                  <subject>Administracion de sistemas operativos</subject>
+                  <teacher>Marisol</teacher>
+               </hour>
+               <hour number="4">
+                  <subject>Servicios de red e internet</subject>
+                  <teacher>Javier</teacher>
+               </hour>
+               <hour number="5">
+                  <subject>Implantacion de aplicaciones web</subject>
+                  <teacher>Florindo</teacher>
+               </hour>
+               <hour number="6">
+                  <subject>Implantacion de aplicaciones web</subject>
+                  <teacher>Florindo</teacher>
+               </hour>
+            </hours>
         </day>
         <day number="3">
             <hours>
-             <hour number="1">
-                <subject>Adiministracion de sistemas gestores de bases de datos</subject>
-                <teacher>Javier</teacher>
-             </hour>
-             <hour number="2">
-                <subject>Empresa e iniciativa emprendedora</subject>
-                <teacher>Roberto</teacher>
-             </hour>
-             <hour number="3">
-                <subject>Administracion de sistemas operativos</subject>
-                <teacher>Marisol</teacher>
-             </hour>
-             <hour number="4">
-                <subject>Administracion de sistemas operativos</subject>
-                <teacher>Marisol</teacher>
-             </hour>
-             <hour number="5">
-                <subject>Servicios de red e internet</subject>
-                <teacher>Javier</teacher>
-             </hour>
-             <hour number="6">
-                <subject>Servicios de red e internet</subject>
-                <teacher>Javier</teacher>
-             </hour>
-            </horas>
+               <hour number="1">
+                  <subject>Adiministracion de sistemas gestores de bases de datos</subject>
+                  <teacher>Javier</teacher>
+               </hour>
+               <hour number="2">
+                  <subject>Empresa e iniciativa emprendedora</subject>
+                  <teacher>Roberto</teacher>
+               </hour>
+               <hour number="3">
+                  <subject>Administracion de sistemas operativos</subject>
+                  <teacher>Marisol</teacher>
+               </hour>
+               <hour number="4">
+                  <subject>Administracion de sistemas operativos</subject>
+                  <teacher>Marisol</teacher>
+               </hour>
+               <hour number="5">
+                  <subject>Servicios de red e internet</subject>
+                  <teacher>Javier</teacher>
+               </hour>
+               <hour number="6">
+                  <subject>Servicios de red e internet</subject>
+                  <teacher>Javier</teacher>
+               </hour>
+            </hours>
         </day>
         <day number="4">
             <hours>
-             <hour number="1">
-                <subject>Seguridad y alta disponibilidad</subject>
-                <teacher>Fidel</teacher>
-             </hour>
-             <hour number="2">
-                <subject>Seguridad y alta disponibilidad</subject>
-                <teacher>Fidel</teacher>
-             </hour>
-             <hour number="3">
-                <subject>Seguridad y alta disponibilidad</subject>
-                <teacher>Fidel</teacher>
-             </hour>
-             <hour number="4">
-                <subject>Servicios de red e internet</subject>
-                <teacher>Javier</teacher>
-             </hour>
-             <hour number="5">
-                <subject>Servicios de red e internet</subject>
-                <teacher>Javier</teacher>
-             </hour>
-             <hour number="6">
-                <subject>Servicios de red e internet</subject>
-                <teacher>Javier</teacher>
-             </hour>
-            </horas>
+               <hour number="1">
+                  <subject>Seguridad y alta disponibilidad</subject>
+                  <teacher>Fidel</teacher>
+               </hour>
+               <hour number="2">
+                  <subject>Seguridad y alta disponibilidad</subject>
+                  <teacher>Fidel</teacher>
+               </hour>
+               <hour number="3">
+                  <subject>Seguridad y alta disponibilidad</subject>
+                  <teacher>Fidel</teacher>
+               </hour>
+               <hour number="4">
+                  <subject>Servicios de red e internet</subject>
+                  <teacher>Javier</teacher>
+               </hour>
+               <hour number="5">
+                  <subject>Servicios de red e internet</subject>
+                  <teacher>Javier</teacher>
+               </hour>
+               <hour number="6">
+                  <subject>Servicios de red e internet</subject>
+                  <teacher>Javier</teacher>
+               </hour>
+            </hours>
         </day>
         <day number="5">
-            <hours>
-             <hour number="1">
-                <subject>Administracion de sistemas operativos</subject>
-                <teacher>Marisol</teacher>
-             </hour>
-             <hour number="2">
-                <subject>Administracion de sistemas operativos</subject>
-                <teacher>Marisol</teacher>
-             </hour>
-             <hour number="3">
-                <subject>Empresa e iniciativa emprendedora</subject>
-                <teacher>Roberto</teacher>
-             </hour>
-             <hour number="4">
-                <subject>Empresa e iniciativa emprendedora</subject>
-                <teacher>Roberto</teacher>
-             </hour>
-             <hour number="5">
-                <subject>Servicios de red e internet</subject>
-                <teacher>Javier</teacher>
-             </hour>
-             <hour number="6">
-                <subject>Servicios de red e internet</subject>
-                <teacher>Javier</teacher>
-             </hour>
-            </horas>
+               <hours>
+               <hour number="1">
+                  <subject>Administracion de sistemas operativos</subject>
+                  <teacher>Marisol</teacher>
+               </hour>
+               <hour number="2">
+                  <subject>Administracion de sistemas operativos</subject>
+                  <teacher>Marisol</teacher>
+               </hour>
+               <hour number="3">
+                  <subject>Empresa e iniciativa emprendedora</subject>
+                  <teacher>Roberto</teacher>
+               </hour>
+               <hour number="4">
+                  <subject>Empresa e iniciativa emprendedora</subject>
+                  <teacher>Roberto</teacher>
+               </hour>
+               <hour number="5">
+                  <subject>Servicios de red e internet</subject>
+                  <teacher>Javier</teacher>
+               </hour>
+               <hour number="6">
+                  <subject>Servicios de red e internet</subject>
+                  <teacher>Javier</teacher>
+               </hour>
+            </hours>
         </day>
        </days>
    </schedule>
