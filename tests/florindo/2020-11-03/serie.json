@@ -1,0 +1,148 @@
+{
+    "name": "Gossip Girl ",
+    "theme": "Drama, Romance",
+    "creators": "Stephanie Savage, Josh Schwartz",
+    "stars": " Blake Lively, Leighton Meester, Penn Badgley, Chace Crawford, Ed Westwick",
+    "rating": "7.4/10",
+    "release": "2007/09/19",
+    "seasons": [
+       {
+          "season": "1",
+          "episodes":[  
+            {"number":"1","name":"Pilot", "rating":"7.6/10"},
+            {"number":"2","name":"Wild Brunch", "rating":"7.6/10"},
+            {"number":"3","name":"Poison Ivy", "rating":"7.6/10"},
+            {"number":"4","name":"Bad News Blair", "rating":"7.6/10"},
+            {"number":"5","name":"Dare Devil", "rating":"7.7/10"},
+            {"number":"6","name":"The Handmaiden's Tale", "rating":"7.6/10"},
+            {"number":"7","name":"Victor/Victrola", "rating":"8.2/10"},
+            {"number":"8","name":"Seventeen Candles ", "rating":"7.8/10"},
+            {"number":"9","name":"Blair Waldorf Must Pie! ", "rating":"7.6/10"},
+            {"number":"10","name":"Hi, Society ", "rating":"8.0/10"},
+            {"number":"11","name":"Roman Holiday", "rating":"7.7/10"},
+            {"number":"12","name":"School Lies ", "rating":"7.6/10"},
+            {"number":"13","name":"A Thin Line Between Chuck and Nate", "rating":"7.9/10"},
+            {"number":"14","name":"The Blair Bitch Project", "rating":"8.0/10"},
+            {"number":"15","name":"Desperately Seeking Serena ", "rating":"7.6/10"},
+            {"number":"16","name":"All About My Brother ", "rating":"8.1/10"},
+            {"number":"17","name":"Woman on the Verge ", "rating":"8.1/10"},
+            {"number":"18","name":"Much 'I Do' About Nothing ", "rating":"8.0/10"}
+            
+        ]},
+        {
+            "season": "2",
+            "episodes":[  
+              {"number":"1","name":"Pilot", "rating":"7.6/10"},
+              {"number":"2","name":"Wild Brunch", "rating":"7.6/10"},
+              {"number":"3","name":"Poison Ivy", "rating":"7.6/10"},
+              {"number":"4","name":"Bad News Blair", "rating":"7.6/10"},
+              {"number":"5","name":"Dare Devil", "rating":"7.7/10"},
+              {"number":"6","name":"The Handmaiden's Tale", "rating":"7.6/10"},
+              {"number":"7","name":"Victor/Victrola", "rating":"8.2/10"},
+              {"number":"8","name":"Seventeen Candles ", "rating":"7.8/10"},
+              {"number":"9","name":"Blair Waldorf Must Pie! ", "rating":"7.6/10"},
+              {"number":"10","name":"Hi, Society ", "rating":"8.0/10"},
+              {"number":"11","name":"Roman Holiday", "rating":"7.7/10"},
+              {"number":"12","name":"School Lies ", "rating":"7.6/10"},
+              {"number":"13","name":"A Thin Line Between Chuck and Nate", "rating":"7.9/10"},
+              {"number":"14","name":"The Blair Bitch Project", "rating":"8.0/10"},
+              {"number":"15","name":"Desperately Seeking Serena ", "rating":"7.6/10"},
+              {"number":"16","name":"All About My Brother ", "rating":"8.1/10"},
+              {"number":"17","name":"Woman on the Verge ", "rating":"8.1/10"},
+              {"number":"18","name":"Much 'I Do' About Nothing ", "rating":"8.0/10"}
+              
+        ]},
+       {
+            "season": "3",
+            "episodes":[  
+              {"number":"1","name":"Pilot", "rating":"7.6/10"},
+              {"number":"2","name":"Wild Brunch", "rating":"7.6/10"},
+              {"number":"3","name":"Poison Ivy", "rating":"7.6/10"},
+              {"number":"4","name":"Bad News Blair", "rating":"7.6/10"},
+              {"number":"5","name":"Dare Devil", "rating":"7.7/10"},
+              {"number":"6","name":"The Handmaiden's Tale", "rating":"7.6/10"},
+              {"number":"7","name":"Victor/Victrola", "rating":"8.2/10"},
+              {"number":"8","name":"Seventeen Candles ", "rating":"7.8/10"},
+              {"number":"9","name":"Blair Waldorf Must Pie! ", "rating":"7.6/10"},
+              {"number":"10","name":"Hi, Society ", "rating":"8.0/10"},
+              {"number":"11","name":"Roman Holiday", "rating":"7.7/10"},
+              {"number":"12","name":"School Lies ", "rating":"7.6/10"},
+              {"number":"13","name":"A Thin Line Between Chuck and Nate", "rating":"7.9/10"},
+              {"number":"14","name":"The Blair Bitch Project", "rating":"8.0/10"},
+              {"number":"15","name":"Desperately Seeking Serena ", "rating":"7.6/10"},
+              {"number":"16","name":"All About My Brother ", "rating":"8.1/10"},
+              {"number":"17","name":"Woman on the Verge ", "rating":"8.1/10"},
+              {"number":"18","name":"Much 'I Do' About Nothing ", "rating":"8.0/10"}
+              
+        ]},
+        {
+            "season": "4",
+            "episodes":[  
+              {"number":"1","name":"Pilot", "rating":"7.6/10"},
+              {"number":"2","name":"Wild Brunch", "rating":"7.6/10"},
+              {"number":"3","name":"Poison Ivy", "rating":"7.6/10"},
+              {"number":"4","name":"Bad News Blair", "rating":"7.6/10"},
+              {"number":"5","name":"Dare Devil", "rating":"7.7/10"},
+              {"number":"6","name":"The Handmaiden's Tale", "rating":"7.6/10"},
+              {"number":"7","name":"Victor/Victrola", "rating":"8.2/10"},
+              {"number":"8","name":"Seventeen Candles ", "rating":"7.8/10"},
+              {"number":"9","name":"Blair Waldorf Must Pie! ", "rating":"7.6/10"},
+              {"number":"10","name":"Hi, Society ", "rating":"8.0/10"},
+              {"number":"11","name":"Roman Holiday", "rating":"7.7/10"},
+              {"number":"12","name":"School Lies ", "rating":"7.6/10"},
+              {"number":"13","name":"A Thin Line Between Chuck and Nate", "rating":"7.9/10"},
+              {"number":"14","name":"The Blair Bitch Project", "rating":"8.0/10"},
+              {"number":"15","name":"Desperately Seeking Serena ", "rating":"7.6/10"},
+              {"number":"16","name":"All About My Brother ", "rating":"8.1/10"},
+              {"number":"17","name":"Woman on the Verge ", "rating":"8.1/10"},
+              {"number":"18","name":"Much 'I Do' About Nothing ", "rating":"8.0/10"}
+              
+        ]},
+        {
+            "season": "5",
+            "episodes":[  
+              {"number":"1","name":"Pilot", "rating":"7.6/10"},
+              {"number":"2","name":"Wild Brunch", "rating":"7.6/10"},
+              {"number":"3","name":"Poison Ivy", "rating":"7.6/10"},
+              {"number":"4","name":"Bad News Blair", "rating":"7.6/10"},
+              {"number":"5","name":"Dare Devil", "rating":"7.7/10"},
+              {"number":"6","name":"The Handmaiden's Tale", "rating":"7.6/10"},
+              {"number":"7","name":"Victor/Victrola", "rating":"8.2/10"},
+              {"number":"8","name":"Seventeen Candles ", "rating":"7.8/10"},
+              {"number":"9","name":"Blair Waldorf Must Pie! ", "rating":"7.6/10"},
+              {"number":"10","name":"Hi, Society ", "rating":"8.0/10"},
+              {"number":"11","name":"Roman Holiday", "rating":"7.7/10"},
+              {"number":"12","name":"School Lies ", "rating":"7.6/10"},
+              {"number":"13","name":"A Thin Line Between Chuck and Nate", "rating":"7.9/10"},
+              {"number":"14","name":"The Blair Bitch Project", "rating":"8.0/10"},
+              {"number":"15","name":"Desperately Seeking Serena ", "rating":"7.6/10"},
+              {"number":"16","name":"All About My Brother ", "rating":"8.1/10"},
+              {"number":"17","name":"Woman on the Verge ", "rating":"8.1/10"},
+              {"number":"18","name":"Much 'I Do' About Nothing ", "rating":"8.0/10"}
+              
+        ]},
+        {
+            "season": "6",
+            "episodes":[  
+              {"number":"1","name":"Pilot", "rating":"7.6/10"},
+              {"number":"2","name":"Wild Brunch", "rating":"7.6/10"},
+              {"number":"3","name":"Poison Ivy", "rating":"7.6/10"},
+              {"number":"4","name":"Bad News Blair", "rating":"7.6/10"},
+              {"number":"5","name":"Dare Devil", "rating":"7.7/10"},
+              {"number":"6","name":"The Handmaiden's Tale", "rating":"7.6/10"},
+              {"number":"7","name":"Victor/Victrola", "rating":"8.2/10"},
+              {"number":"8","name":"Seventeen Candles ", "rating":"7.8/10"},
+              {"number":"9","name":"Blair Waldorf Must Pie! ", "rating":"7.6/10"},
+              {"number":"10","name":"Hi, Society ", "rating":"8.0/10"},
+              {"number":"11","name":"Roman Holiday", "rating":"7.7/10"},
+              {"number":"12","name":"School Lies ", "rating":"7.6/10"},
+              {"number":"13","name":"A Thin Line Between Chuck and Nate", "rating":"7.9/10"},
+              {"number":"14","name":"The Blair Bitch Project", "rating":"8.0/10"},
+              {"number":"15","name":"Desperately Seeking Serena ", "rating":"7.6/10"},
+              {"number":"16","name":"All About My Brother ", "rating":"8.1/10"},
+              {"number":"17","name":"Woman on the Verge ", "rating":"8.1/10"},
+              {"number":"18","name":"Much 'I Do' About Nothing ", "rating":"8.0/10"}
+              
+        ]}
+    ]
+ }

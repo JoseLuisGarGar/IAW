@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<serie>
+   <creators>Stephanie Savage, Josh Schwartz</creators>
+   <name>Gossip Girl </name>
+   <rating>7.4/10</rating>
+   <release>2007/09/19</release>
+   <stars> Blake Lively, Leighton Meester, Penn Badgley, Chace Crawford, Ed Westwick</stars>
+   <theme>Drama, Romance</theme>
+    <seasons>
+        <season number="1">
+            <episodes>
+                <episode>
+                    <name>Pilot</name>
+                    <number>1</number>
+                    <rating>7.6/10</rating>
+                </episode>
+                <episode>
+                    <name>Wild Brunch</name>
+                    <number>2</number>
+                    <rating>7.6/10</rating>
+                </episode>
+                <episode>
+                    <name>Poison Ivy</name>
+                    <number>3</number>
+                    <rating>7.6/10</rating>
+                </episode>
+                <episode>
+                    <name>Bad News Blair</name>
+                    <number>4</number>
+                    <rating>7.6/10</rating>
+                </episode>
+                <episode>
+                    <name>Dare Devil</name>
+                    <number>5</number>
+                    <rating>7.7/10</rating>
+                </episode>
+                <episode>
+                    <name>The Handmaiden's Tale</name>
+                    <number>6</number>
+                    <rating>7.6/10</rating>
+                </episode>
+                <episode>
+                    <name>Victor/Victrola</name>
+                    <number>7</number>
+                    <rating>8.2/10</rating>
+                </episode>
+                <episode>
+                    <name>Seventeen Candles </name>
+                    <number>8</number>
+                    <rating>7.8/10</rating>
+                </episode>
+                <episode>
+                    <name>Blair Waldorf Must Pie! </name>
+                    <number>9</number>
+                    <rating>7.6/10</rating>
+                </episode>
+                <episode>
+                    <name>Hi, Society </name>
+                    <number>10</number>
+                    <rating>8.0/10</rating>
+                </episode>
+                <episode>
+                    <name>Roman Holiday</name>
+                    <number>11</number>
+                    <rating>7.7/10</rating>
+                </episode>
+                <episode>
+                    <name>School Lies </name>
+                    <number>12</number>
+                    <rating>7.6/10</rating>
+                </episode>
+                <episode>
+                    <name>A Thin Line Between Chuck and Nate</name>
+                    <number>13</number>
+                    <rating>7.9/10</rating>
+                </episode>
+                <episode>
+                    <name>The Blair Bitch Project</name>
+                    <number>14</number>
+                    <rating>8.0/10</rating>
+                </episode>
+                <episode>
+                    <name>Desperately Seeking Serena </name>
+                    <number>15</number>
+                    <rating>7.6/10</rating>
+                </episode>
+                <episode>
+                    <name>All About My Brother </name>
+                    <number>16</number>
+                    <rating>8.1/10</rating>
+                </episode>
+                <episode>
+                    <name>Woman on the Verge </name>
+                    <number>17</number>
+                    <rating>8.1/10</rating>
+                </episode>
+                <episode>
+                    <name>Much 'I Do' About Nothing </name>
+                    <number>18</number>
+                    <rating>8.0/10</rating>
+                </episode>
+            </episodes>
+        <season>
+    </seasons>
+</serie>
