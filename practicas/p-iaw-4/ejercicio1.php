@@ -13,8 +13,8 @@
          $n2=24;
          if ($n1 > $n2) {
             echo "$n1 es mayor a $n2";
-         }elseif ($n2 > $n2) {
-            echo "$n1 es mayor a $n2";
+         }elseif ($n2 > $n1) {
+            echo "$n2 es mayor a $n1";
          } else {
             echo "Son iguales";
          }
