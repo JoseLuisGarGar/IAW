@@ -59,16 +59,9 @@
             <option value='indie'>Indie</option>       
             </select><br>
             <?php if(isset($errores['tipo'])){
-<<<<<<< HEAD
             echo $errores['tipo'];
             }?>
-=======
-            echo "<span class='red'>".$errores['tipo']."</span>";
-            }?>
-
-
->>>>>>> 68bb300d4f055c4565f7ff1f622992c98ec4ebc9
-            Espacios para la fiesta: <br><input type='checkbox' name='espacio[]' value='barras' > Barras<br>
+            Espacios para la fiesta: <br><input type='checkbox' name='espacio[]' value='barras' min="2"> Barras<br>
             <input type='checkbox'  name='espacio[]' value='escenarios' checked> Escenarios<br>
             <input type='checkbox'  name='espacio[]' value='jardin'> Jardín<br>
             <input type='checkbox'  name='espacio[]' value='zonachill'> Zona Chill<br>
