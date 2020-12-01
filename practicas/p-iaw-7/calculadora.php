@@ -11,7 +11,7 @@
         
         <?php
         echo "<form action='calculadora.php' method='POST' enctype='multipart/form-data'>";
-        echo "Introduce 2 para sumarlos: <br>";
+        echo "Introduce 2 números para sumarlos: <br>";
         echo "Número 1: <input type='number' name='input_a'><br>";
         echo "Número 2: <input type='number' name='input_b'><br>";
         echo "<input type='submit' value='Sumar' name='sumar'>";
