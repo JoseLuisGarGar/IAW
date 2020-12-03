@@ -24,8 +24,8 @@
             for ($i = 1; $i<=10; $i++) {
                 $resultado=$_POST['num']*$i;
                 echo "<li>".$_POST['num']."*".$i."=".$resultado."</li>";
-            echo "</ul>";
             } 
+            echo "</ul>";
             } else {
                 echo "Introduce un número.";
             }
