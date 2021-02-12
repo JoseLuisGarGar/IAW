@@ -21,7 +21,7 @@
   </title>
   <style>
     th {
-      width: 95px;
+      width: 95.1px;
     }
     table {
       margin-left: 10px;

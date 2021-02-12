@@ -1,7 +1,7 @@
 <?php
-  session_start();
-?>
+session_start();
 
+?>
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -19,18 +19,39 @@
   <h1>Formulario Texto 1 (Resultado)</h1>
 
 <?php
-
-  if (isset($_POST['texto'])) {
-    echo "El texto que has escrito es: ".$_POST['texto'];
-     $_POST['texto']=$_session'texto'[];
+  $errores=[];
+  $user="joseluis";
+  $pass=1234;
+  if (isset($_POST['user']) && $_POST['pass']) {
+    if (($_POST['user'])==$user && ($_POST['pass'])==$pass) {
+      $_SESSION['user']=$_POST['user'];
+      $_SESSION['pass']=$_POST['pass'];
+    } else {
+      $errores[]="Usuario y/o contraseña erroneas</li>";
+    }
+  } else {
+    if (($_POST['user'])=="") {
+      $errores[]="Introduce un usuario";
+    }
+    if (($_POST['user'])=="") {
+      $errores[]="Introduce una contraseña";
+    }
   }
+  if (count($errores)>0) {
+    echo "<ul>";
+    foreach ($errores as $key => $value) {
+      echo "<li>.$value.</li>";
+    }
+    echo "</ul>";
+  }
+
 
 ?>
 
   <p><a href="sesiones-1-01-1.php">Volver a la primera página.</a></p>
 
   <footer>
-    <p>Escriba aquí su nombre</p>
+    <p>José Luis García</p>
   </footer>
 </body>
 </html>

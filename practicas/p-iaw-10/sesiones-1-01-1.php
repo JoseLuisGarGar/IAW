@@ -1,5 +1,6 @@
 <?php
-  session_start();
+session_start();
+
 ?>
 <!DOCTYPE html>
 <html lang="es">
@@ -19,29 +20,15 @@
 
 <?php
 
-print "  <p class=\"aviso\">Ejercicio incompleto</p>\n";
-
 ?>
 
-<?php
-
-if (isset($_session['texto'])){
-
-} else {
-?>
-  <form action="sesiones-1-01-2.php" method="post">
-    <p><label>Escriba texto: <input type="text" name="texto" size="20" maxlength="20"></label></p>
-
+  <form action="sesiones-1-01-2.php" method="POST">
+    <p><label>Nombre: <input type="text" name="user" size="20" maxlength="20"></label></p>
+    <p><label>Contraseña: <input type="password" name="pass" size="20" maxlength="20"></label></p>
     <p>
-      <input type="submit" value="Siguiente">
-      <input type="reset" value="Borrar">
+      <input type="submit" value="Entrar">
     </p>
   </form>
-  <?php
-
-}
-
-?>
 
   <footer>
     <p>José Luis García</p>
